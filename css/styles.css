@@ -122,8 +122,8 @@ p {
 /*Boton WS*/
 .whatsapp{
     position: fixed;
-    right: 10px;
-    height: 20px;
+    right: 8px;
+    height: 8px;
     bottom: 100px;
     z-index: 99;
     border-radius:50%;
